@@ -9,7 +9,7 @@ Look at this image here.
 
 ## Solution
 Get the file:
-https://artifacts.picoctf.net/c/235/atbash.jpg
+wget https://artifacts.picoctf.net/c/235/atbash.jpg
 
 if we see the code inside of the file with cat command, we will get nothing.
 
